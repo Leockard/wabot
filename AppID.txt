@@ -1,0 +1,3 @@
+APP NAME: wa-bot
+APPID: EE7XKT-H97T699E6A
+USAGE TYPE: Personal/Non-commercial Only
